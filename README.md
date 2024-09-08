@@ -1,6 +1,3 @@
-@[toc]
-# awesome-cursor-prompts-zh
-Cursor 中文提示词
 LangChain Python 推理后端 Prompt
 来自群友 @李小刀
 # LangChain Python 推理后端的人工智能规则
