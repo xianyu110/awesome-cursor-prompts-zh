@@ -1,3 +1,4 @@
+@[toc]
 # awesome-cursor-prompts-zh
 Cursor 中文提示词
 LangChain Python 推理后端 Prompt
